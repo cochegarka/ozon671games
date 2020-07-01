@@ -1,10 +1,10 @@
 {
   "name": "ozon671games",
   "version": "1.0.0",
-  "description": "Чувак, ты думал, здесь что-то будет?",
-  "main": "index.js",
+  "description": "Пошли своему другу и наколи его, ёпта!",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Чувак, ты думал, здесь что-то будет?\" && exit 1"
   },
   "keywords": [
     "наколы",
@@ -12,7 +12,7 @@
     "ozon671games",
     "озон"
   ],
-  "author": "Terpiloid",
-  "license": "ISC",
+  "author": "Patient Troops of Russian Federation",
+  "license": "WTFPL",
   "devDependencies": {}
 }
